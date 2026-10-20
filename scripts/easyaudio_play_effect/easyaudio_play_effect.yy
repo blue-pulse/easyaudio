@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"easyaudio_play_effect",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"easyaudio_play_effect",
+  "parent":{
+    "name":"EasyAudio",
+    "path":"folders/EasyAudio.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

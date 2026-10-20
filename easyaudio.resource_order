@@ -1,0 +1,17 @@
+{
+  "FolderOrderSettings":[
+    {"name":"EasyAudio","order":2,"path":"folders/EasyAudio.yy",},
+    {"name":"_Internal","order":1,"path":"folders/EasyAudio/_Internal.yy",},
+    {"name":"Config","order":2,"path":"folders/EasyAudio/Config.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"__easyaudio_constants","order":1,"path":"scripts/__easyaudio_constants/__easyaudio_constants.yy",},
+    {"name":"__easyaudio_system","order":2,"path":"scripts/__easyaudio_system/__easyaudio_system.yy",},
+    {"name":"__easyaudio_trace","order":3,"path":"scripts/__easyaudio_trace/__easyaudio_trace.yy",},
+    {"name":"easyaudio_initialize","order":4,"path":"scripts/easyaudio_initialize/easyaudio_initialize.yy",},
+    {"name":"easyaudio_is_loaded","order":5,"path":"scripts/easyaudio_is_loaded/easyaudio_is_loaded.yy",},
+    {"name":"easyaudio_play_effect","order":6,"path":"scripts/easyaudio_play_effect/easyaudio_play_effect.yy",},
+    {"name":"easyaudio_play_music","order":7,"path":"scripts/easyaudio_play_music/easyaudio_play_music.yy",},
+    {"name":"easyaudio_play_voice","order":8,"path":"scripts/easyaudio_play_voice/easyaudio_play_voice.yy",},
+  ],
+}

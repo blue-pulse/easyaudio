@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__easyaudio_constants",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__easyaudio_constants",
+  "parent":{
+    "name":"_Internal",
+    "path":"folders/EasyAudio/_Internal.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
